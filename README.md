@@ -1,3 +1,3 @@
-# muluken  
-cs student
-at university of gondar
+# Name muluken  Melkie 
+dt. computer science student
+ at university of gondar
